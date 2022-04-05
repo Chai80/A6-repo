@@ -1,0 +1,5 @@
+test2
+2test
+create_user,test4,test4,admin
+write,commands_47,47
+stop

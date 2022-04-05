@@ -1,0 +1,6 @@
+test
+test
+create_demo,,Viewers of Marvel/DC under 20,10000
+create_studio,warner,Warner Brothers
+write,commands_62,62
+stop

@@ -1,0 +1,6 @@
+test
+test
+create_demo,age_30_heroes,Viewers of Marvel/DC under 20,
+create_studio,warner,Warner Brothers
+write,commands_68,68
+stop

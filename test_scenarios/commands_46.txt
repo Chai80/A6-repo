@@ -1,0 +1,6 @@
+test
+test
+update_user_password,test2,2test
+update_user_type,test2,analyst
+write,commands_46,46
+stop

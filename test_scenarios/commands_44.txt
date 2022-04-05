@@ -1,0 +1,5 @@
+test2
+test2
+create_user,test3,test3,analyst
+write,commands_44,44
+stop

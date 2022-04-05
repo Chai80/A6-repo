@@ -1,0 +1,7 @@
+test
+test
+delete_user,test2
+delete_user,test3
+delete_user,test
+write,commands_48,48
+stop

@@ -1,0 +1,8 @@
+test
+test
+create_studio,warner,Warner Brothers
+create_event,movie,Batman Begins,2005,140,warner,1000
+create_event,movie,Batman Begins,2005,140,warner,1000
+create_stream,hulu,Hulu Plus,11
+write,commands_83,83
+stop

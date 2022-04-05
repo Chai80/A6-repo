@@ -1,0 +1,5 @@
+test
+test
+display_time
+write,commands_08,08
+stop

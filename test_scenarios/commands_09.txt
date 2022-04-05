@@ -1,0 +1,7 @@
+test
+test
+display_time
+next_month
+display_time
+write,commands_09,09
+stop

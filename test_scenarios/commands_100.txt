@@ -1,0 +1,10 @@
+test
+test
+create_studio,warner,Warner Brothers
+create_event,ppv,Justice League Live,2020,180,warner,12000
+create_stream,hulu,Hulu Plus,11
+offer_ppv,hulu,Justice League Live,2020,80
+retract_movie,hulu,Justice League Live,2020
+create_stream,net,Netflix,11
+write,commands_100,100
+stop

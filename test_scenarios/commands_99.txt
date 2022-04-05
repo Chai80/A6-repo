@@ -1,0 +1,14 @@
+test
+test
+create_studio,warner,Warner Brothers
+create_event,ppv,Justice League Live,2020,180,warner,12000
+create_stream,hulu,Hulu Plus,11
+offer_ppv,hulu,Justice League Live,2020,80
+create_event,movie,Batman v Superman,2016,152,warner,1000
+offer_movie,hulu,Batman v Superman,2016
+retract_movie,hulu,Batman v Superman,2016
+offer_movie,hulu,Batman v Superman,2016
+retract_movie,hulu,Batman v Superman,2017
+create_stream,net,Netflix,11
+write,commands_99,99
+stop

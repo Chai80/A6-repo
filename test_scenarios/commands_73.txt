@@ -1,0 +1,7 @@
+test
+test
+create_studio,warner,Warner Brothers
+display_studio,net
+create_stream,hulu,Hulu Plus,11
+write,commands_73,73
+stop

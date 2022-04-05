@@ -1,0 +1,7 @@
+test
+test
+create_studio,warner,Warner Brothers
+display_studio,warner
+create_studio,warner,Warner Brothers
+write,commands_71,71
+stop

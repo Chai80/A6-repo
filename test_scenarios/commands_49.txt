@@ -1,0 +1,7 @@
+test
+test
+create_user,test2,test2,analyst
+delete_user,test
+update_user_password,test,test2
+write,commands_49,49
+stop

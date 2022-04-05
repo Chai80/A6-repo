@@ -1,0 +1,10 @@
+test
+test
+create_studio,warner,Warner Brothers
+create_event,movie,Batman v Superman,2016,152,warner,1000
+update_event,Batman v Superman,2016,150,1000
+display_events
+update_event,Batman v Superman,2017,150,1000
+create_stream,hulu,Hulu Plus,11
+write,commands_91,91
+stop
