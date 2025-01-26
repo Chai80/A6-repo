@@ -16,4 +16,8 @@ RUN mkdir db
 RUN mkdir output
 RUN mkdir test_results
 COPY --from=builder /usr/src/cs6310/streaming_wars.jar ./streaming_wars.jar
+
 CMD ["java", "-cp", "./lib/*:streaming_wars.jar", "Main", "commands_00.txt"]
+#inside the container:
+#./lib/* actually means /usr/src/cs6310/lib/*.
+#./streaming_wars.jar actually means /usr/src/cs6310/streaming_wars.jar.
